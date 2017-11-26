@@ -1,5 +1,8 @@
 {
-    "name": "symfony/http-kernel",
+    "name": "symfony@iglue/http-kernel",
+    "replace": {
+        "symfony/http-kernel": "v3.2.13"
+    },
     "type": "library",
     "description": "Symfony HttpKernel Component",
     "keywords": [],
